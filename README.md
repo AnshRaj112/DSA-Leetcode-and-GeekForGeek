@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AnshRaj112/DSA-Leetcode-and-GeekForGeek/tree/master/0018-4sum) |
+| [0704-binary-search](https://github.com/AnshRaj112/DSA-Leetcode-and-GeekForGeek/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AnshRaj112/DSA-Leetcode-and-GeekForGeek/tree/master/0018-4sum) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AnshRaj112/DSA-Leetcode-and-GeekForGeek/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
